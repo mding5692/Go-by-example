@@ -2,12 +2,10 @@ package main
 
 import "fmt"
 
-// just testing out a basic if-else statement, nothing fancy
-
 func main() {
 
+// just testing out a basic if-else statement, nothing fancy
 var i = true
-
 // no brackets again
 if i == true {
   fmt.Println(i)
@@ -22,5 +20,9 @@ if i == true {
   SO NONE OF THAT "? .... : ...." stuff
   
   WATCH OUT AND DONT USE *****/
+  
+  
+  // Lets try a switch-case-default-break statement
+  
 
 }

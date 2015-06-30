@@ -17,5 +17,10 @@ if i == true {
   
   // didn't use an else if here, didn't feel it was necessary
 
+/***** NOTE THAT THERE ARE NO TERNARY IFs IN GO
+
+  SO NONE OF THAT "? .... : ...." stuff
+  
+  WATCH OUT AND DONT USE *****/
 
 }

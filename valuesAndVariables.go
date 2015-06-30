@@ -20,3 +20,8 @@ func main() {
   
   
 }
+
+/*
+Use this to compile:
+go run valuesAndVariables.go
+*/

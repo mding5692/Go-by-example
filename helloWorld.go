@@ -10,7 +10,7 @@
     // no semi-colons
     // this prints the words "hello world"
     fmt.Println("hello world")
-    // impressive, no, has support for asian letters 
+    // impressive, has support for asian characters
     fmt.Println("Hello, 世界")
     
   }

@@ -15,7 +15,7 @@ func main() {
   // booleans still the same
   fmt.Println(true && false)
   fmt.Println(true || false)
-  fmt.Println(!true
+  fmt.Println(!true)
   
   
   
